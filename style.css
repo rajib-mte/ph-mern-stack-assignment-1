@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* shared styles */
 .inter-font{
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
