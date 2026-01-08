@@ -44,12 +44,11 @@ https://github.com/rajib-mte/ph-mern-stack-assignment-1
 
 ## 📂 Project Structure
 assignment-1-mern-stack-webdevelopment/
-│
-├── index.html
-├── style.css
-├── assets/
-├── src/ (if React used)
-└── README.md
+                                        │
+                                        ├── index.html
+                                        ├── style.css
+                                        ├── assets/
+                                        └── README.md
 
 
 ---
