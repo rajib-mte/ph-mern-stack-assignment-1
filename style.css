@@ -23,6 +23,7 @@
   justify-content: center;
   gap: 2px;
 }
+
 .btn:hover {
   background-color: #7e8637;
 }
