@@ -108,6 +108,7 @@
   font-size: 16px;
   font-weight: 500;
 }
+
 .banner {
   background-image: url("./assets/hero-bg.png");
   background-size: cover;
@@ -290,6 +291,7 @@
   
 }
 .footer-links {
+  /* background-color: red; */
   color: #FFFFFF;
   font-family: Inter;
   font-style: Medium;
@@ -300,17 +302,17 @@
   margin-bottom: 180;
 }
 
-.social-icons{
-  border-color: red;
-  max-width: 20px;
+.social-icons a{
   display: flex;
-  gap: 200px;
+  justify-content: center;
   align-items: center;
-  flex-direction: row;
-  justify-content: flex-start;
-  padding: 0px 110px 80px 0px;
+  width: 20px;
+  height: 20px;
+  padding-bottom: 80px;
+  padding-right: 26px;
+  font-size: 22px;
+  text-decoration: none;
 }
-
 
 .footer hr {
   margin-top: 20px;
