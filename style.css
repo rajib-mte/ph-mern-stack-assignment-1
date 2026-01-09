@@ -68,6 +68,37 @@
 }
 
 /*main syles*/
+.top-bar {
+  height: 50px;
+  background: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+}
+
+.nav-btn {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.nav-btn:hover {
+  opacity: 0.8;
+}
+
+/* Optional positioning clarity */
+.left-btn {
+  margin-right: auto;
+}
+
+.right-btn {
+  font-size: 16px;
+}
+
+
 .navbar ul {
   display: flex;
   list-style: none;
@@ -257,7 +288,7 @@
   font-weight: 500;
   line-height: 28px;
   letter-spacing: 0%;
-  text-align: center;
+  text-align: left;
   flex-direction: column;
 
   
@@ -270,7 +301,7 @@
   align-items: center;
   flex-direction: row;
   justify-content: flex-start;
-  padding: 16px 128px 0px 0px;
+  padding: 16px 135px 0px 0px;
 }
 
 
