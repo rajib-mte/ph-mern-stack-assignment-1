@@ -35,7 +35,7 @@ The project focuses on building a responsive and user-friendly web interface whi
 ## 🚀 Live Demo
 
 🔗 **Live Website:**  
-
+https://rajib-mte.github.io/ph-mern-stack-assignment-1/
 
 🔗 **GitHub Repository:**  
 https://github.com/rajib-mte/ph-mern-stack-assignment-1
