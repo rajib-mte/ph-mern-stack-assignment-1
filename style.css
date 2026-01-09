@@ -12,7 +12,7 @@
 
 .btn {
   padding: 8px 16px;
-  background-color: #30b868;
+  background-color: #469165; 
   color: #FFFFFF;
   border: none;
   border-radius: 4px;
@@ -131,12 +131,12 @@
   height: 35px;
   background-color: white;
   padding: 8px 12px 8px 12px;
-  color: #30b868;
+  color: #469165;
   display: flex;
   justify-content: space-evenly;
   justify-items: center;
   margin: 0 auto;
-  border-radius: 10px;
+  border-radius: 1000px;
 
 }
 
@@ -178,20 +178,21 @@
 }
 .note-card{
   width: 322px;
+  height: 300px;
 
-  padding: 15px;
+  padding-top: 70px;
+  padding-bottom: 121px;
   border: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.116);
   border-radius: 8px;
   text-align: center;
 }
 .note-card img{
   width: 60px;
   height: 60px;
-  /* padding: 5px;
+  padding: 6.5;
   border-radius: 50%;
-  background-color: #fa5c5c;
-  margin-bottom: 16px; */
+  margin-bottom: 16px; 
 }
 
 .second-brain-section{
@@ -211,12 +212,13 @@
 
 .second-brain-section .second-brain-content #p-color{
   font-size: 16px;
-  color: #30b868;
+  color:#469165;
   margin-bottom: 10px;
 }
 .second-brain-section .second-brain-content #peragraph{
-  color: #555555;
+  color: #627382;
   font-weight: 400;
+  padding-bottom: 40px;
 }
 .second-brain-section .second-brain-content h1{
   font-size: 48px;
@@ -231,7 +233,8 @@
   margin-top: 10px;
 }
 .check-item p{
-  color: black;
+  color: #001931;
+  font-weight: 600;
   font-size: 16px;
 }
 .check-item img{
