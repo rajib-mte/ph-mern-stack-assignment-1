@@ -99,9 +99,13 @@
   margin-bottom: 16px;
 }
 .banner .banner-content #banner-p p{
-  width: 200px;
+  width: 229px;
+  height: 35px;
   background-color: white;
-  padding: 2px 1px;
+  /* padding: 2px 1px; */
+  padding: 8px 12px 8px 12px;
+  
+
   color: #30b868;
   display: flex;
   justify-content: space-evenly;
