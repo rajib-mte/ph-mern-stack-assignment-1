@@ -250,7 +250,6 @@
   
 }
 .footer-links {
-
   color: #FFFFFF;
   font-family: Inter;
   font-style: Medium;
@@ -280,7 +279,8 @@
   color: #E5E7EB;
 }
 .footer p {
-  margin-top: 20px;
+  padding: 128px 40px 0px 0px;
+  /* margin-top: 20px; */
 }
 
 .nav__play {
