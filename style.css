@@ -102,10 +102,7 @@
   width: 229px;
   height: 35px;
   background-color: white;
-  /* padding: 2px 1px; */
   padding: 8px 12px 8px 12px;
-  
-
   color: #30b868;
   display: flex;
   justify-content: space-evenly;
@@ -253,9 +250,30 @@
   
 }
 .footer-links {
-  display: flex;
+
+  color: #FFFFFF;
+  font-family: Inter;
+  font-style: Medium;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
   flex-direction: column;
+
+  
 }
+
+.social-icons {
+  max-width: 20px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 16px 128px 0px 0px;
+}
+
 
 .footer hr {
   margin-top: 20px;
@@ -287,3 +305,4 @@
 .play-icon svg {
     color: #111827;
 }
+
