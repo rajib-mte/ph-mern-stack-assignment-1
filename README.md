@@ -7,18 +7,19 @@ The project focuses on building a responsive and user-friendly web interface whi
 
 ## 📌 Project Information
 
-- **Course Name:** Programming Hero – MERN Stack Web Development  
-- **Assignment Number:** Assignment 1  
-- **Project Type:** Web Development  
-- **Submission Type:** GitHub Repository + Live Deployment  
+-
+- **Course Name:** Programming Hero – MERN Stack Web Development
+- **Assignment Number:** Assignment 1
+- **Project Type:** Web Development
+- **Submission Type:** GitHub Repository + Live Deployment
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5  
+- HTML5
 - CSS
-- Git & GitHub  
+- Git & GitHub
 
 ---
 
@@ -43,13 +44,13 @@ https://github.com/rajib-mte/ph-mern-stack-assignment-1
 ---
 
 ## 📂 Project Structure
-assignment-1-mern-stack-webdevelopment/
-                                        │
-                                        ├── index.html
-                                        ├── style.css
-                                        ├── assets/
-                                        └── README.md
 
+assignment-1-mern-stack-webdevelopment/
+│
+├── index.html
+├── style.css
+├── assets/
+└── README.md
 
 ---
 
@@ -62,8 +63,9 @@ _Add project screenshots here if required._
 ## ✅ Submission Notes
 
 This project is submitted as part of the **Programming Hero Assignment Requirement**, including:
-- ✔️ GitHub repository link  
-- ✔️ Live deployed website  
+
+- ✔️ GitHub repository link
+- ✔️ Live deployed website
 
 ---
 
@@ -76,4 +78,4 @@ Thanks to **Programming Hero** for providing the learning resources and guidance
 ## 📬 Author
 
 **Rajib Hasan**  
-Programming Hero Student  
+Programming Hero Student
